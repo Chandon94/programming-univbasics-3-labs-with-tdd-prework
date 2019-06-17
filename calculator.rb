@@ -1,1 +1,1 @@
-# Add your variables here
+var first_name = 0
